@@ -1,0 +1,22 @@
+============================================================= test session starts ==============================================================
+platform linux -- Python 3.9.18, pytest-7.4.0, pluggy-1.0.0
+rootdir: /home/thomas/dev/cardanobi-python
+plugins: asyncio-0.23.6
+asyncio: mode=strict
+collected 4 items
+
+test/integration_test_bi.py APIClient.getPrivate, url: https://cardanobi.io:4000/api/bi/addresses/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/stats
+test_api_bi_addresses_stats_with_specific_params PASSED in 262.48ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/bi/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc/stats
+test_api_bi_pools_stats_with_specific_params PASSED in 209.81ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/bi/pools/stats/epochs/394
+test_api_bi_pools_stats_epochs_with_specific_params PASSED in 235.08ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/bi/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc/stats/lifetime
+test_api_bi_pools_stats_lifetime_with_specific_params PASSED in 208.70ms
+
+.
+
+============================================================== 4 passed in 0.99s ===============================================================

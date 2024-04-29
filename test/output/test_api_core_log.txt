@@ -1,0 +1,238 @@
+============================================================= test session starts ==============================================================
+platform linux -- Python 3.9.18, pytest-7.4.0, pluggy-1.0.0
+rootdir: /home/thomas/dev/cardanobi-python
+plugins: asyncio-0.23.6
+asyncio: mode=strict
+collected 76 items
+
+test/integration_test_core.py APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma
+test_api_core_accounts_with_specific_params PASSED in 251.95ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/addressesinfo/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma
+test_api_core_addressesinfo_with_specific_params PASSED in 210.37ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/assets/asset1w8wujx5xpxk88u94t0c60lsjlgwpd635a3c3lc
+test_api_core_assets_with_specific_params PASSED in 208.98ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/89ff1090614105a919c9ccc8bb3914aaef1ddd28214a4d55ff65436d2c9fc0b2
+test_api_core_blocks_with_specific_params PASSED in 220.05ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/blocks?odata=true
+test_api_core_blocks_with_odata PASSED in 228.15ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs
+test_api_core_epochs_without_parameters PASSED in 230.79ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/epochs/394?odata=true
+test_api_core_epochs_with_specific_params PASSED in 214.75ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/epochs?odata=true
+test_api_core_epochs_with_odata PASSED in 227.53ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/epochsparams
+test_api_core_epochsparams_with_odata PASSED in 223.04ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/epochsparams/394
+test_api_core_epochsparams_with_specific_params PASSED in 217.71ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/epochsstakes
+test_api_core_epochsstakes_with_odata PASSED in 209.62ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211
+test_api_core_polls_with_specific_params PASSED in 1258.83ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolshashes
+test_api_core_poolshashes_with_odata PASSED in 244.50ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsmetadata
+test_api_core_poolsmetadata_with_odata PASSED in 252.47ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsmetadata/4268
+test_api_core_poolsmetadata_with_specific_params PASSED in 235.88ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsofflinedata
+test_api_core_poolsofflinedata_with_odata PASSED in 251.00ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsofflinedata/4268
+test_api_core_poolsofflinedata_with_specific_params PASSED in 215.00ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsofflinefetcherrors
+test_api_core_poolsofflinefetcherrors_with_odata PASSED in 4601.64ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsofflinefetcherrors/4268
+test_api_core_poolsofflinefetcherrors_with_specific_params PASSED in 226.14ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsrelays
+test_api_core_poolsrelays_with_odata PASSED in 303.87ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsrelays/1
+test_api_core_poolsrelays_with_specific_params PASSED in 199.17ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsupdates
+test_api_core_poolsupdates_with_odata PASSED in 311.03ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/odata/poolsupdates/4268
+test_api_core_poolsupdates_with_specific_params PASSED in 211.75ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0
+test_api_core_transactions_with_specific_params PASSED in 1243.65ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/rewards
+test_api_core_accounts_rewards_with_specific_params PASSED in 210.72ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/staking
+test_api_core_accounts_staking_with_specific_params PASSED in 215.20ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/delegations
+test_api_core_accounts_delegations_with_specific_params PASSED in 224.17ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/registrations
+test_api_core_accounts_registrations_with_specific_params PASSED in 221.76ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u9frlh9lvpdjva46ge0yc4c8zg5e0d37ch42zyyrzmu2hygnmy4xc/withdrawals
+test_api_core_accounts_withdrawals_with_specific_params PASSED in 231.56ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1uypy44wqjznc5w9ns9gsguz4ta83jekrg9d0wupa7j3zsacwvq5ex/mirs
+test_api_core_accounts_mirs_with_specific_params PASSED in 1263.60ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/addresses
+test_api_core_accounts_addresses_with_specific_params PASSED in 200.53ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/accounts/stake1uyq4f9rye96ywptukdypkdu69gc4sd34hwzd940pxslczhc7n5vyt/assets
+test_api_core_accounts_assets_with_specific_params PASSED in 1038.93ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/addresses/stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma/info
+test_api_core_addresses_info_with_specific_params PASSED in 196.83ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/assets/asset1gqp4wdmclgw2tqmkm3nq7jdstvqpesdj3agnel/history
+test_api_core_assets_history_with_specific_params PASSED in 203.19ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/assets/asset1gqp4wdmclgw2tqmkm3nq7jdstvqpesdj3agnel/transactions
+test_api_core_assets_transactions_with_specific_params PASSED in 208.04ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/assets/asset1gqp4wdmclgw2tqmkm3nq7jdstvqpesdj3agnel/addresses
+test_api_core_assets_addresses_with_specific_params PASSED in 207.93ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/assets/policies/706e1c53ed984b016f2c0fc79a450fdb572aa21e4e87d6f74d0b6e8a
+test_api_core_assets_policies_with_specific_params PASSED in 240.38ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/latest
+test_api_core_blocks_latest_without_parameters PASSED in 199.67ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/89ff1090614105a919c9ccc8bb3914aaef1ddd28214a4d55ff65436d2c9fc0b2/transactions
+test_api_core_blocks_transactions_with_specific_params PASSED in 213.09ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/epochs/394/slots/85165743
+test_api_core_blocks_epochs_slots_with_specific_params PASSED in 219.65ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/history/prev/8415364
+test_api_core_blocks_history_prev_with_specific_params PASSED in 9976.16ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/history/next/8415364
+test_api_core_blocks_history_next_with_specific_params PASSED in 3248.05ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/latest/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc
+test_api_core_blocks_latest_pools_with_specific_params PASSED in 217.94ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/latest/transactions
+test_api_core_blocks_latest_transactions_without_parameters PASSED in 203.38ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/blocks/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc/history
+test_api_core_blocks_pools_history_with_specific_params PASSED in 232.91ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/latest
+test_api_core_epochs_latest_without_parameters PASSED in 228.87ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/params
+test_api_core_epochs_params_without_parameters PASSED in 218.16ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/394/params
+test_api_core_epochs_params_with_specific_params PASSED in 209.48ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/params/latest
+test_api_core_epochs_params_latest_without_parameters PASSED in 233.35ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/394/stakes/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc
+test_api_core_epochs_stakes_pools_with_specific_params PASSED in 225.00ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/epochs/latest/stakes/pools/pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc
+test_api_core_epochs_latest_stakes_pools_with_specific_params PASSED in 229.02ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/hashes
+test_api_core_pools_hashes_without_parameters PASSED in 233.39ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/metadata
+test_api_core_pools_metadata_without_parameters PASSED in 243.83ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/4268/metadata
+test_api_core_pools_metadata_with_specific_params PASSED in 197.49ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/offlinedata
+test_api_core_pools_offlinedata_without_parameters PASSED in 238.20ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/ADACT/offlinedata
+test_api_core_pools_offlinedata_with_specific_params PASSED in 216.81ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/offlinefetcherrors
+test_api_core_pools_offlinefetcherrors_without_parameters PASSED in 3814.12ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/4268/offlinefetcherrors
+test_api_core_pools_offlinefetcherrors_with_specific_params PASSED in 217.71ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/updates
+test_api_core_pools_updates_without_parameters PASSED in 300.67ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/9be345bcbcb0cf0559b1135467fd2e4c78c741898cdf8bcb737b2dc5122632df/updates
+test_api_core_pools_updates_with_specific_params PASSED in 220.09ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/metadata/hashes/42771b05b30f180890980613b3147f6bb797fe1f8a83e92d39a3135ec9559ea8
+test_api_core_pools_metadata_hashes_with_specific_params PASSED in 215.68ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/metadata/42771b05b30f180890980613b3147f6bb797fe1f8a83e92d39a3135ec9559ea8/offlinedata
+test_api_core_pools_metadata_offlinedata_with_specific_params PASSED in 221.02ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/relays/updates
+test_api_core_pools_relays_updates_without_parameters PASSED in 321.19ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/pools/9be345bcbcb0cf0559b1135467fd2e4c78c741898cdf8bcb737b2dc5122632df/relays/updates
+test_api_core_pools_relays_updates_with_specific_params PASSED in 219.28ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0/utxos
+test_api_core_transactions_utxos_with_specific_params PASSED in 1273.45ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/13919fc14338f13fa10497293f709f9c12c6275c5b38baa0c60786ffdd51bebb/stake_address_registrations
+test_api_core_transactions_stake_address_registrations_with_specific_params PASSED in 205.58ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/e963b50c5a1078f0fbe11c375d047af3a1b2112538ed6cf852809ebbf4dd8440/stake_address_delegations
+test_api_core_transactions_stake_address_delegations_with_specific_params PASSED in 192.52ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/cb44c5dd07ab3fee81f05ddd3e4596d2664e6c0ae77bccf99d1c9605dd01808d/withdrawals
+test_api_core_transactions_withdrawals_with_specific_params PASSED in 201.85ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/0bc50b20e16268419048790f6ae3667a1480418dd9faed543bc0e8ca32ea7a08/treasury
+test_api_core_transactions_treasury_with_specific_params PASSED in 216.23ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/27dff3f43c460e779e35eff505f5f159c4283a8221b31ee17cdcd5b31ad221ba/reserves
+test_api_core_transactions_reserves_with_specific_params PASSED in 197.88ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/62c3c13187423c47f629e6187f36fbd61a9ba1d05d101588340cfbfdf47b22d2/param_proposals
+test_api_core_transactions_param_proposals_with_specific_params PASSED in 211.24ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/0d8eadd3bd58bd1a34641ea4100de509f081fe5dd7ecd33d7da52cbeb8e93494/retiring_pools
+test_api_core_transactions_retiring_pools_with_specific_params PASSED in 202.38ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/37b67370c0e71b6e15d6d5f564a5069461e472a26e6f46a813743458285aef8d/updating_pools
+test_api_core_transactions_updating_pools_with_specific_params PASSED in 220.46ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/6b85afe3fc01c6d3503a5dac8343b56b67f504bb2399deba8b09f8024790b9c4/metadata
+test_api_core_transactions_metadata_with_specific_params PASSED in 217.21ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0/assetmints
+test_api_core_transactions_assetmints_with_specific_params PASSED in 210.27ms
+
+.APIClient.getPrivate, url: https://cardanobi.io:4000/api/core/transactions/e584995ed133ae25e5c918d794efa415e10352b0d0e08aa02a196bbd605b9e69/redeemers
+test_api_core_transactions_redeemers_with_specific_params PASSED in 1795.14ms
+
+.
+
+============================================================= 76 passed in 44.52s ==============================================================
