@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "pool_id": 1,
+        "url": "https://raw.githubusercontent.com/Octalus/cardano/master/p.json",
+        "hash": "yn0S3s+IbjH1ImtZRsYu3IGn5Ar5XOfNZGUSLjCdViY=",
+        "registered_tx_id": 2415556,
+        "hash_hex": "ca7d12decf886e31f5226b5946c62edc81a7e40af95ce7cd6465122e309d5626"
+    },
+    {
+        "id": 2,
+        "pool_id": 2,
+        "url": "https://stakenuts.com/mainnet.json",
+        "hash": "R8DGjLV/SltKh7rYlvwnRnjnrqmOIA+hShy0DAyrHYw=",
+        "registered_tx_id": 2415602,
+        "hash_hex": "47c0c68cb57f4a5b4a87bad896fc274678e7aea98e200fa14a1cb40c0cab1d8c"
+    },
+    {
+        "id": 3,
+        "pool_id": 3,
+        "url": "https://metadata.zenithpool.io",
+        "hash": "GyowFctJASQfOYpuFwPH90pjYjRKRwyZBMjwRaG1a6A=",
+        "registered_tx_id": 2415682,
+        "hash_hex": "1b2a3015cb4901241f398a6e1703c7f74a6362344a470c9904c8f045a1b56ba0"
+    },
+    {
+        "id": 4,
+        "pool_id": 4,
+        "url": "https://data.pooltool.io/md/6e5dcfbc-7f73-406e-b9ab-78fd7cbed7c5",
+        "hash": "TgO/XUc0ucCFeUPJRjDENEaUHQpQUFjLA8fF3qv7USI=",
+        "registered_tx_id": 2415707,
+        "hash_hex": "4e03bf5d4734b9c0857943c94630c43446941d0a505058cb03c7c5deabfb5122"
+    },
+    {
+        "id": 5,
+        "pool_id": 5,
+        "url": "https://pool.adascan.net/meta/v1/poolmeta.json",
+        "hash": "j66pQ/YDpEQ0bcaOj353/OnMDNMzrUSi2HyDKHdp4Ug=",
+        "registered_tx_id": 2415884,
+        "hash_hex": "8faea943f603a444346dc68e8f7e77fce9cc0cd333ad44a2d87c83287769e148"
+    },
+    {
+        "id": 6,
+        "pool_id": 6,
+        "url": "https://stakepool.at/atada.metadata.json",
+        "hash": "+GNpoEK2llMKn7b5AOCbbiMlEfKWUtSfbR2HHSVpVYs=",
+        "registered_tx_id": 2415927,
+        "hash_hex": "f86369a042b696530a9fb6f900e09b6e232511f29652d49f6d1d871d2569558b"
+    },
+    {
+        "id": 7,
+        "pool_id": 7,
+        "url": "https://tinyurl.com/y3aryqrz",
+        "hash": "+dXpd9OMHrOHz97AZ3KE0Ro/kSmFW1Qr0zLWNvm9e78=",
+        "registered_tx_id": 2415955,
+        "hash_hex": "f9d5e977d38c1eb387cfdec0677284d11a3f9129855b542bd332d636f9bd7bbf"
+    },
+    {
+        "id": 8,
+        "pool_id": 8,
+        "url": "http://dezent.online/deznt.metadata.json",
+        "hash": "WI2xwxDUML1O4So57to+hF+5yuP9kuwyoRmjuiE2stg=",
+        "registered_tx_id": 2416011,
+        "hash_hex": "588db1c310d430bd4ee12a39eeda3e845fb9cae3fd92ec32a119a3ba2136b2d8"
+    },
+    {
+        "id": 9,
+        "pool_id": 9,
+        "url": "https://bluecheesestakehouse.com/bcsh.metadata.json",
+        "hash": "HuXpOtED2oT6Z2IqPDvgJf2J7GGsyVnb5LOxEX05o34=",
+        "registered_tx_id": 2416072,
+        "hash_hex": "1ee5e93ad103da84fa67622a3c3be025fd89ec61acc959dbe4b3b1117d39a37e"
+    },
+    {
+        "id": 10,
+        "pool_id": 10,
+        "url": "https://tap-ada.at/poolmeta.json",
+        "hash": "90LgPa77CD2GpxxNx1fkN1J0KESwqbw8utotnnDsE+8=",
+        "registered_tx_id": 2416082,
+        "hash_hex": "f742e03daefb083d86a71c4dc757e43752742844b0a9bc3cbada2d9e70ec13ef"
+    },
+    {
+        "id": 11,
+        "pool_id": 11,
+        "url": "https://bluecheesestakehouse.com/bcsh0.metadata.json",
+        "hash": "Q39UAOVPLE7Bgx0l9goYNyzVPnA8FAPp90+4Hxhq1DQ=",
+        "registered_tx_id": 2416096,
+        "hash_hex": "437f5400e54f2c4ec1831d25f60a18372cd53e703c1403e9f74fb81f186ad434"
+    },
+    {
+        "id": 12,
+        "pool_id": 12,
+        "url": "https://raw.githubusercontent.com/subnetdev/pool/master/k8s.json",
+        "hash": "+a+ClzHocxArmilREvdWSb9474bJLyl2Tpr56fbXc7M=",
+        "registered_tx_id": 2416104,
+        "hash_hex": "f9af829731e873102b9a295112f75649bf78ef86c92f29764e9af9e9f6d773b3"
+    },
+    {
+        "id": 13,
+        "pool_id": 13,
+        "url": "https://cardanobay.com/metadata.json",
+        "hash": "LydiFet8rYltcBMFs7LsePJav8Ax3E/4+/aRwVZH07I=",
+        "registered_tx_id": 2416150,
+        "hash_hex": "2f276215eb7cad896d701305b3b2ec78f25abfc031dc4ff8fbf691c15647d3b2"
+    },
+    {
+        "id": 14,
+        "pool_id": 14,
+        "url": "https://teqwyse.com/tqws_pool.metadata.json",
+        "hash": "xjek3JRKRvlwUZ4XNHb87/mfoWOQCLYQQ7AA7+RaYfs=",
+        "registered_tx_id": 2416152,
+        "hash_hex": "c637a4dc944a46f970519e173476fceff99fa1639008b61043b000efe45a61fb"
+    },
+    {
+        "id": 15,
+        "pool_id": 15,
+        "url": "https://ahlnet.nu/pool/ahl-meta.json",
+        "hash": "hdhQYNSmIHmTqGXA5HMSmRr1U2g1OAIJjrvuDoChOno=",
+        "registered_tx_id": 2416168,
+        "hash_hex": "85d85060d4a6207993a865c0e47312991af55368353802098ebbee0e80a13a7a"
+    },
+    {
+        "id": 16,
+        "pool_id": 16,
+        "url": "https://cardanometa.blob.core.windows.net/pools/cheap.json",
+        "hash": "O9pLWnK7vJFJwy7Z4LGvcBV8cYa2ZSkRTQ6sgdsUiaE=",
+        "registered_tx_id": 2416191,
+        "hash_hex": "3bda4b5a72bbbc9149c32ed9e0b1af70157c7186b66529114d0eac81db1489a1"
+    },
+    {
+        "id": 17,
+        "pool_id": 17,
+        "url": "https://leo-staking-pool.herokuapp.com/poolmeta.json",
+        "hash": "hqh2HA+XKy5IZ8JXCNCihxOZw9PWDuPIE7503R5QSPs=",
+        "registered_tx_id": 2416207,
+        "hash_hex": "86a8761c0f972b2e4867c25708d0a2871399c3d3d60ee3c813be74dd1e5048fb"
+    },
+    {
+        "id": 18,
+        "pool_id": 18,
+        "url": "https://ahlnet.nu/pool/net-meta.json",
+        "hash": "fai43Qu8EoWM8yLHdxaQOajruxNWrTevH7+sUCUhHek=",
+        "registered_tx_id": 2416219,
+        "hash_hex": "7da8b8dd0bbc12858cf322c777169039a8ebbb1356ad37af1fbfac5025211de9"
+    },
+    {
+        "id": 19,
+        "pool_id": 19,
+        "url": "https://cardanians.io/_storage/pool-crdns.json",
+        "hash": "vxD0j2NPYfrxq0nmAUM512y8ZR6p1Euq7ryrhZ1fHQo=",
+        "registered_tx_id": 2416225,
+        "hash_hex": "bf10f48f634f61faf1ab49e6014339d76cbc651ea9d44baaeebcab859d5f1d0a"
+    },
+    {
+        "id": 20,
+        "pool_id": 20,
+        "url": "https://masp-pool.nl/MASP.json",
+        "hash": "W7EULqP9nfVf8XIYSLm2ugJ32I5hGnT5rzr6ODhkTZY=",
+        "registered_tx_id": 2416313,
+        "hash_hex": "5bb1142ea3fd9df55ff1721848b9b6ba0277d88e611a74f9af3afa3838644d96"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "@odata.context": "https://cardanobi.io/api/core/odata/$metadata#Epochs/$entity",
+    "id": 395,
+    "out_sum": 120057607089391640,
+    "fees": 98380011223,
+    "tx_count": 300298,
+    "blk_count": 20552,
+    "no": 394,
+    "start_time": "2023-02-14T21:46:16Z",
+    "end_time": "2023-02-19T21:44:32Z"
+}

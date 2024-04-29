@@ -1,0 +1,14 @@
+{
+    "@odata.context": "https://cardanobi.io/api/core/odata/$metadata#PoolsRelays",
+    "value": [
+        {
+            "id": 1,
+            "update_id": 1,
+            "ipv4": "54.220.20.40",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 3002
+        }
+    ]
+}

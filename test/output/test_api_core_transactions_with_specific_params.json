@@ -1,0 +1,88 @@
+{
+    "tx_hash_hex": "5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0",
+    "id": 62806763,
+    "block_no": 8504316,
+    "slot_no": 86986601,
+    "block_time": "2023-03-11T16:41:32",
+    "block_index": 4,
+    "out_sum": 769511275,
+    "fee": 488725,
+    "deposit": 0,
+    "size": 7252,
+    "invalid_before": null,
+    "invalid_hereafter": 86992584,
+    "valid_contract": true,
+    "script_size": 0,
+    "output_amounts": [
+        {
+            "value": 769511275,
+            "unit": "lovelace",
+            "asset_fingerprint": null
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby164",
+            "asset_fingerprint": "asset1zrvganzsyd0fvw7ts7ja9l63c87he04u7g3aq6"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby180",
+            "asset_fingerprint": "asset1gtldmxkks4af38dyz2qwshgltxvjqw5axyqfd5"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby246",
+            "asset_fingerprint": "asset1h92eu48jjnh4vzpjq7zutmzngx863yke65h6m3"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby315",
+            "asset_fingerprint": "asset1v2s8pfs9dvh4cyrxzll2q5xcrmhpvj9ll6df99"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby467",
+            "asset_fingerprint": "asset16dgewuvjdg4m4rhhsz6k8ym3s8ac7gz0j3tgk9"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby642",
+            "asset_fingerprint": "asset1yh4h07gdc2uplk6p40k89he553w00v79j6vlnf"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby783",
+            "asset_fingerprint": "asset1znwa2p75ryy6xmslu604yqwhe39c2yrzwflz8d"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby835",
+            "asset_fingerprint": "asset13kkqusmscnwycv5uxktkhy9t0vpah0mzz09szf"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby867",
+            "asset_fingerprint": "asset19xydzwjvn6725t3a9fn586f3pj932k0kvs93kf"
+        },
+        {
+            "value": 1,
+            "unit": "TheGreatGatsby981",
+            "asset_fingerprint": "asset1fd863wp7nd0jv2lz0ljesxh2gpn8cycdkztye9"
+        }
+    ],
+    "inputCount": 1,
+    "outputCount": 2,
+    "withdrawalCount": 0,
+    "assetMintCount": 10,
+    "metadataCount": 1,
+    "stakeRegistrationCount": 0,
+    "stakeDeregistrationCount": 0,
+    "delegationCount": 0,
+    "treasuryCount": 0,
+    "reserveCount": 0,
+    "potTransferCount": 0,
+    "paramProposalCount": 0,
+    "poolRetireCount": 0,
+    "poolUpdateCount": 0,
+    "redeemerCount": 0
+}

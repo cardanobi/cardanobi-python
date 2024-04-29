@@ -1,0 +1,186 @@
+{
+    "@odata.context": "https://cardanobi.io/api/core/odata/$metadata#PoolsRelays",
+    "value": [
+        {
+            "id": 1,
+            "update_id": 1,
+            "ipv4": "54.220.20.40",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 3002
+        },
+        {
+            "id": 2,
+            "update_id": 2,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relays.mainnet.stakenuts.com",
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 3,
+            "update_id": 3,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay.zenithpool.io",
+            "dns_srv_name": null,
+            "port": 31400
+        },
+        {
+            "id": 4,
+            "update_id": 4,
+            "ipv4": "78.47.141.62",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 6060
+        },
+        {
+            "id": 5,
+            "update_id": 4,
+            "ipv4": "95.217.220.249",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 6060
+        },
+        {
+            "id": 6,
+            "update_id": 5,
+            "ipv4": "139.162.148.181",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 8088
+        },
+        {
+            "id": 7,
+            "update_id": 6,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relays.stakepool.at",
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 8,
+            "update_id": 6,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay-1.stakepool.at",
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 9,
+            "update_id": 6,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay-2.stakepool.at",
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 10,
+            "update_id": 7,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay1.cryptobounty.org",
+            "dns_srv_name": null,
+            "port": 8081
+        },
+        {
+            "id": 11,
+            "update_id": 7,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay2.cryptobounty.org",
+            "dns_srv_name": null,
+            "port": 8082
+        },
+        {
+            "id": 12,
+            "update_id": 8,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relayone.dezentstaking.com",
+            "dns_srv_name": null,
+            "port": 8885
+        },
+        {
+            "id": 13,
+            "update_id": 8,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relaytwo.dezentstaking.com",
+            "dns_srv_name": null,
+            "port": 8885
+        },
+        {
+            "id": 14,
+            "update_id": 8,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relaythree.dezentstaking.com",
+            "dns_srv_name": null,
+            "port": 8885
+        },
+        {
+            "id": 15,
+            "update_id": 9,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay0.bluecheesestakehouse.com",
+            "dns_srv_name": null,
+            "port": 5000
+        },
+        {
+            "id": 16,
+            "update_id": 9,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay1.bluecheesestakehouse.com",
+            "dns_srv_name": null,
+            "port": 5001
+        },
+        {
+            "id": 17,
+            "update_id": 9,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay2.bluecheesestakehouse.com",
+            "dns_srv_name": null,
+            "port": 5002
+        },
+        {
+            "id": 18,
+            "update_id": 10,
+            "ipv4": "45.83.107.139",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 19,
+            "update_id": 10,
+            "ipv4": "45.83.107.231",
+            "ipv6": null,
+            "dns_name": null,
+            "dns_srv_name": null,
+            "port": 3001
+        },
+        {
+            "id": 20,
+            "update_id": 11,
+            "ipv4": null,
+            "ipv6": null,
+            "dns_name": "relay0.bluecheesestakehouse.com",
+            "dns_srv_name": null,
+            "port": 5000
+        }
+    ],
+    "@odata.nextLink": "https://cardanobi.io/api/core/odata/poolsrelays?$skip=20"
+}

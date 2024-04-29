@@ -1,0 +1,20 @@
+{
+    "id": 10279835,
+    "hash": "hiRwfz+JHBT94V7rfZu+alhWFTvFV9Ja0pV4woiCD+4=",
+    "epoch_no": 481,
+    "slot_no": 122809539,
+    "epoch_slot_no": 380739,
+    "block_no": 10248546,
+    "previous_id": 10279834,
+    "slot_leader_id": 4557275,
+    "size": 4,
+    "time": "2024-04-29T07:30:30",
+    "tx_count": 0,
+    "proto_major": 8,
+    "proto_minor": 0,
+    "vrf_key": "vrf_vk17v5w0aak280g633jdkce0wl8ev89cp9uk5rqca6p769lj8nps56q6t2z9t",
+    "op_cert": "aYwOH/69wTSfJwV+A0hvkSzBTrX/nNpbD4SAui+mfVE=",
+    "op_cert_counter": 19,
+    "hash_hex": "8624707f3f891c14fde15eeb7d9bbe6a5856153bc557d25ad29578c288820fee",
+    "op_cert_hex": "698c0e1ffebdc1349f27057e03486f912cc14eb5ff9cda5b0f8480ba2fa67d51"
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "pool_id": 274,
+        "ticker_name": "ADI",
+        "hash": "g2+NJFE5q/Zi7pPGk3mEyJW9uIuKBp5SFEp3ekWKzsY=",
+        "json": "{\"name\": \"Cardanesia\", \"ticker\": \"ADI\", \"homepage\": \"https://cardanesia.com\", \"description\": \"An Indonesian-based Cardano stake pool\"}",
+        "bytes": "ewoibmFtZSI6ICJDYXJkYW5lc2lhIiwKImRlc2NyaXB0aW9uIjogIkFuIEluZG9uZXNpYW4tYmFzZWQgQ2FyZGFubyBzdGFrZSBwb29sIiwKInRpY2tlciI6ICJBREkiLAoiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9jYXJkYW5lc2lhLmNvbSIKfQo=",
+        "pmr_id": 328,
+        "hash_hex": "836f8d245139abf662ee93c6937984c895bdb88b8a069e52144a777a458acec6"
+    },
+    {
+        "id": 2,
+        "pool_id": 43,
+        "ticker_name": "KROM",
+        "hash": "N4twCk1TSKv5R6lbZe6mdsUYUyGNXVnxAsfPe6N62p4=",
+        "json": "{\"name\": \"DeKrom Stake Pool\", \"ticker\": \"KROM\", \"homepage\": \"https://dekrom.dev\", \"description\": \"Double thumbs up\"}",
+        "bytes": "ewoibmFtZSI6ICJEZUtyb20gU3Rha2UgUG9vbCIsCiJkZXNjcmlwdGlvbiI6ICJEb3VibGUgdGh1bWJzIHVwIiwKInRpY2tlciI6ICJLUk9NIiwKImhvbWVwYWdlIjogImh0dHBzOi8vZGVrcm9tLmRldiIKfQo=",
+        "pmr_id": 44,
+        "hash_hex": "378b700a4d5348abf947a95b65eea676c51853218d5d59f102c7cf7ba37ada9e"
+    },
+    {
+        "id": 3,
+        "pool_id": 119,
+        "ticker_name": "ADAGO",
+        "hash": "C+r+mea672mCYVF8snofIB4vGKJhoWLkhiPNGj4n8p4=",
+        "json": "{\"name\": \"ADAGO POOL\", \"ticker\": \"ADAGO\", \"homepage\": \"https://www.adaspace.xyz/\", \"description\": \"ADAGO \u2013 Cardano stake pools with low fees, high security and reliability\"}",
+        "bytes": "ewoibmFtZSI6ICJBREFHTyBQT09MIiwKImRlc2NyaXB0aW9uIjogIkFEQUdPIOKAkyBDYXJkYW5vIHN0YWtlIHBvb2xzIHdpdGggbG93IGZlZXMsIGhpZ2ggc2VjdXJpdHkgYW5kIHJlbGlhYmlsaXR5IiwKInRpY2tlciI6ICJBREFHTyIsCiJob21lcGFnZSI6ICJodHRwczovL3d3dy5hZGFzcGFjZS54eXovIgp9Cg==",
+        "pmr_id": 131,
+        "hash_hex": "0beafe99e6baef698261517cb27a1f201e2f18a261a162e48623cd1a3e27f29e"
+    },
+    {
+        "id": 4,
+        "pool_id": 178,
+        "ticker_name": "ANP",
+        "hash": "wGPIZbC5R0Lkkvici3CRwqR7Ct4An2xN34kKP84Xh4c=",
+        "json": "{\"name\": \"ADA NORTH POOL\", \"ticker\": \"ANP\", \"homepage\": \"https://www.adanorthpool.com\", \"description\": \"Norwegian pool. Relay:US,JP,GE,AU,NO HW:https://www.youtube.com/watch?v=nj117hg3HUI intro:https://www.youtube.com/watch?v=qrGaSI0XgQo\"}",
+        "bytes": "ewogICJuYW1lIjogIkFEQSBOT1JUSCBQT09MIiwKICAiZGVzY3JpcHRpb24iOiAiTm9yd2VnaWFuIHBvb2wuIFJlbGF5OlVTLEpQLEdFLEFVLE5PIEhXOmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bmoxMTdoZzNIVUkgaW50cm86aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1xckdhU0kwWGdRbyIsCiAgInRpY2tlciI6ICJBTlAiLAogICJob21lcGFnZSI6ICJodHRwczovL3d3dy5hZGFub3J0aHBvb2wuY29tIiwKICAiZXh0ZW5kZWQiOiAiaHR0cHM6Ly93d3cuYWRhbm9ydGhwb29sLmNvbS9BTlAtZXh0ZW5kZWRtZXRhLmpzb24iCn0=",
+        "pmr_id": 207,
+        "hash_hex": "c063c865b0b94742e492f89c8b7091c2a47b0ade009f6c4ddf890a3fce178787"
+    },
+    {
+        "id": 5,
+        "pool_id": 153,
+        "ticker_name": "SEXY",
+        "hash": "PkshvmaDX5jteeZnIeUUll/o0s/BCn134Iufvd3uzmI=",
+        "json": "{\"name\": \"SEXY\", \"ticker\": \"SEXY\", \"homepage\": \"https://stakelovelace.io/\", \"description\": \"We merged with AAA stake pool. Past and new delegators, please delegate to AAA. This ticker is for private use only.\"}",
+        "bytes": "ewogICJuYW1lIjogIlNFWFkiLAogICJ0aWNrZXIiOiAiU0VYWSIsCiAgImRlc2NyaXB0aW9uIjogIldlIG1lcmdlZCB3aXRoIEFBQSBzdGFrZSBwb29sLiBQYXN0IGFuZCBuZXcgZGVsZWdhdG9ycywgcGxlYXNlIGRlbGVnYXRlIHRvIEFBQS4gVGhpcyB0aWNrZXIgaXMgZm9yIHByaXZhdGUgdXNlIG9ubHkuIiwKICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9zdGFrZWxvdmVsYWNlLmlvLyIsCiAgImV4dGVuZGVkIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ob2Rsb25hdXQvYS9tYXN0ZXIvc2V4eV9pdG5fdGljay5qc29uIgp9Cg==",
+        "pmr_id": 172,
+        "hash_hex": "3e4b21be66835f98ed79e66721e514965fe8d2cfc10a7d77e08b9fbdddeece62"
+    },
+    {
+        "id": 6,
+        "pool_id": 142,
+        "ticker_name": "BSP",
+        "hash": "pc93/HZdqQaw3yEK24HO4j1raiyUK6inZ3xGdIqPxZU=",
+        "json": "{\"name\": \"The Brothership Pool\", \"ticker\": \"BSP\", \"homepage\": \"https://brothershipool.org\", \"description\": \"Bare-metal core servers and relay servers all around the world. BSP aims to be a guardian of Cardano. Our motto: Security. Trasparency. Stability.\"}",
+        "bytes": "eyJuYW1lIjogIlRoZSBCcm90aGVyc2hpcCBQb29sIiwgInRpY2tlciI6ICJCU1AiLCAiZGVzY3JpcHRpb24iOiAiQmFyZS1tZXRhbCBjb3JlIHNlcnZlcnMgYW5kIHJlbGF5IHNlcnZlcnMgYWxsIGFyb3VuZCB0aGUgd29ybGQuIEJTUCBhaW1zIHRvIGJlIGEgZ3VhcmRpYW4gb2YgQ2FyZGFuby4gT3VyIG1vdHRvOiBTZWN1cml0eS4gVHJhc3BhcmVuY3kuIFN0YWJpbGl0eS4iLCAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9icm90aGVyc2hpcG9vbC5vcmcifQ==",
+        "pmr_id": 338,
+        "hash_hex": "a5cf77fc765da906b0df210adb81cee23d6b6a2c942ba8a7677c46748a8fc595"
+    },
+    {
+        "id": 7,
+        "pool_id": 23,
+        "ticker_name": "CPX",
+        "hash": "SEHMCqNAEvq5YEpr6N7VdoyWY3gdXlgJF2FRGDccl2c=",
+        "json": "{\"name\": \"CardanoProxy\", \"ticker\": \"CPX\", \"homepage\": \"https://cardanoproxy.com\", \"description\": \"Distributed and Highly Available Stake Pool Managed by Professionals\"}",
+        "bytes": "ewogICJuYW1lIjogIkNhcmRhbm9Qcm94eSIsCiAgImRlc2NyaXB0aW9uIjogIkRpc3RyaWJ1dGVkIGFuZCBIaWdobHkgQXZhaWxhYmxlIFN0YWtlIFBvb2wgTWFuYWdlZCBieSBQcm9mZXNzaW9uYWxzIiwKICAidGlja2VyIjogIkNQWCIsCiAgImhvbWVwYWdlIjogImh0dHBzOi8vY2FyZGFub3Byb3h5LmNvbSIsCiAgImV4dGVuZGVkIjogImh0dHBzOi8vZ2l0aHViLmNvbS9DYXJkYW5vUHJveHkvQ1BYL3Jhdy9tYXN0ZXIvY2FyZGFub3Byb3h5LWl0bi5qc29uIgp9Cg==",
+        "pmr_id": 24,
+        "hash_hex": "4841cc0aa34012fab9604a6be8ded5768c9663781d5e580917615118371c9767"
+    },
+    {
+        "id": 8,
+        "pool_id": 174,
+        "ticker_name": "CLIO1",
+        "hash": "R1MLqXwS4qxARi6chu6wfqVVh30qH510tv+EcYOSZ9g=",
+        "json": "{\"name\": \"CLIO1\", \"ticker\": \"CLIO1\", \"homepage\": \"https://clio.one\", \"description\": \"What's past is prologue\"}",
+        "bytes": "ewogICJuYW1lIjogIkNMSU8xIiwKICAidGlja2VyIjogIkNMSU8xIiwKICAiZGVzY3JpcHRpb24iOiAiV2hhdCdzIHBhc3QgaXMgcHJvbG9ndWUiLAogICJob21lcGFnZSI6ICJodHRwczovL2NsaW8ub25lIiwKICAiZXh0ZW5kZWQiOiAiaHR0cHM6Ly9jbGlvLm9uZS9tZXRhZGF0YS9jbGlvMV9JVE5fd2l0bmVzcy5qc29uIgp9Cg==",
+        "pmr_id": 201,
+        "hash_hex": "47530ba97c12e2ac40462e9c86eeb07ea555877d2a1f9d74b6ff8471839267d8"
+    },
+    {
+        "id": 9,
+        "pool_id": 102,
+        "ticker_name": "POP2",
+        "hash": "z8T9b+TYGZ0ff+fqScl8MocQbcWC5knww6134hr8eEE=",
+        "json": "{\"name\": \"POP2\", \"ticker\": \"POP2\", \"homepage\": \"https://popool.net\", \"description\": \"2nd POPOOL! Let\u2019s Enjoy Comfortably,Carefree,Easy staking ! \u6c17\u697d\u30fb\u6c17\u307e\u307e\u306a\u7c21\u5358\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3092\u697d\u3057\u3082\u3046\uff01\u3068\u306b\u304b\u304f\u653e\u7f6e\u304c\u3057\u305f\u3044\u3001\u8a50\u6b3a\u3060\u3063\u305f\u3089\u6016\u3044\u3001\u533f\u540d\u53c2\u52a0\u3057\u305f\u3044\u3001\u640d\u3057\u305f\u304f\u306a\u3044\u3001\u65e5\u672c\u8a9e\u3067\u3059\u3050\u8cea\u554f\u3057\u305f\u3044\u2026\u3068\u3044\u3046\u3042\u306a\u305f\u306b\u3001POPOOL\u306f\u30d4\u30c3\u30bf\u30ea\u3002\u3042\u306a\u305f\u306e\u6c17\u697d\u30fb\u6c17\u307e\u307e\u306a\u7c21\u5358\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u30e9\u30a4\u30d5\u3092\u30b5\u30dd\u30fc\u30c8\uff01\"}",
+        "bytes": "ewogICJuYW1lIjogIlBPUDIiLAogICJ0aWNrZXIiOiAiUE9QMiIsCiAgImRlc2NyaXB0aW9uIjogIjJuZCBQT1BPT0whIExldOKAmXMgRW5qb3kgQ29tZm9ydGFibHksQ2FyZWZyZWUsRWFzeSBzdGFraW5nICEg5rCX5qW944O75rCX44G+44G+44Gq57Ch5Y2Y44K544OG44O844Kt44Oz44Kw44KS5qW944GX44KC44GG77yB44Go44Gr44GL44GP5pS+572u44GM44GX44Gf44GE44CB6KmQ5qy644Gg44Gj44Gf44KJ5oCW44GE44CB5Yy/5ZCN5Y+C5Yqg44GX44Gf44GE44CB5pCN44GX44Gf44GP44Gq44GE44CB5pel5pys6Kqe44Gn44GZ44GQ6LOq5ZWP44GX44Gf44GE4oCm44Go44GE44GG44GC44Gq44Gf44Gr44CBUE9QT09M44Gv44OU44OD44K/44Oq44CC44GC44Gq44Gf44Gu5rCX5qW944O75rCX44G+44G+44Gq57Ch5Y2Y44K544OG44O844Kt44Oz44Kw44Op44Kk44OV44KS44K144Od44O844OI77yBIiwKICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9wb3Bvb2wubmV0Igp9Cg==",
+        "pmr_id": 111,
+        "hash_hex": "cfc4fd6fe4d8199d1f7fe7ea49c97c3287106dc582e649f0c3ad77e21afc7841"
+    },
+    {
+        "id": 10,
+        "pool_id": 203,
+        "ticker_name": "1WJG",
+        "hash": "sThKbQ1uS2ak0pfMANxdZ2ICfvT3oZ+Pixv1/C8y740=",
+        "json": "{\"name\": \"1WJG\", \"ticker\": \"1WJG\", \"homepage\": \"https://1wjg.com\", \"description\": \"One Man Army\"}",
+        "bytes": "ewoibmFtZSI6ICIxV0pHIiwKImRlc2NyaXB0aW9uIjogIk9uZSBNYW4gQXJteSIsCiJ0aWNrZXIiOiAiMVdKRyIsCiJob21lcGFnZSI6ICJodHRwczovLzF3amcuY29tIgp9Cg==",
+        "pmr_id": 238,
+        "hash_hex": "b1384a6d0d6e4b66a4d297cc00dc5d6762027ef4f7a19f8f8b1bf5fc2f32ef8d"
+    },
+    {
+        "id": 11,
+        "pool_id": 202,
+        "ticker_name": "ACL",
+        "hash": "tqgiiUTBxmvI70/N/55vZ6zsxlW6ROhjCs11jG+urgw=",
+        "json": "{\"name\": \"A CardanoLand pool ACL\", \"ticker\": \"ACL\", \"homepage\": \"https://cardanoland.com\", \"description\": \"Your Trust is our Motivation - A CardanoLand [ACL]\"}",
+        "bytes": "ewogICJuYW1lIjogIkEgQ2FyZGFub0xhbmQgcG9vbCBBQ0wiLAogICJkZXNjcmlwdGlvbiI6ICJZb3VyIFRydXN0IGlzIG91ciBNb3RpdmF0aW9uIC0gQSBDYXJkYW5vTGFuZCBbQUNMXSIsCiAgInRpY2tlciI6ICJBQ0wiLAogICJob21lcGFnZSI6ICJodHRwczovL2NhcmRhbm9sYW5kLmNvbSIsCiAgImV4dGVuZGVkIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9TVmlrc2hhL0EvbWFzdGVyL0VBQ0wuanNvbiIKfQo=",
+        "pmr_id": 237,
+        "hash_hex": "b6a8228944c1c66bc8ef4fcdff9e6f67acecc655ba44e8630acd758c6faeae0c"
+    },
+    {
+        "id": 12,
+        "pool_id": 177,
+        "ticker_name": "CNT",
+        "hash": "JWFyBPyjyw/U5FeNVmQRkuiEpo6kY5WpSh+Hyx+ydS0=",
+        "json": "{\"name\": \"CoinTourage Pool\", \"ticker\": \"CNT\", \"homepage\": \"https://cointourage.com\", \"description\": \"Lowest Fees! Multi Node Cloud Pool by CoinTourage\"}",
+        "bytes": "ewoibmFtZSI6ICJDb2luVG91cmFnZSBQb29sIiwKImRlc2NyaXB0aW9uIjogIkxvd2VzdCBGZWVzISBNdWx0aSBOb2RlIENsb3VkIFBvb2wgYnkgQ29pblRvdXJhZ2UiLAoidGlja2VyIjogIkNOVCIsCiJob21lcGFnZSI6ICJodHRwczovL2NvaW50b3VyYWdlLmNvbSIKfQo=",
+        "pmr_id": 205,
+        "hash_hex": "25617204fca3cb0fd4e4578d56641192e884a68ea46395a94a1f87cb1fb2752d"
+    },
+    {
+        "id": 13,
+        "pool_id": 258,
+        "ticker_name": "EARN",
+        "hash": "Tr6PhYQOE+i8hzgELIJk8cVX1Ty9JTNDs7rHo9qMei8=",
+        "json": "{\"name\": \"Earn Stakepool\", \"ticker\": \"EARN\", \"homepage\": \"https://earningcardano.com\", \"description\": \"MAXIMIZE YOUR RETURN!\"}",
+        "bytes": "ewogICJuYW1lIjogIkVhcm4gU3Rha2Vwb29sIiwKICAiZGVzY3JpcHRpb24iOiAiTUFYSU1JWkUgWU9VUiBSRVRVUk4hIiwKICAidGlja2VyIjogIkVBUk4iLAogICJob21lcGFnZSI6ICJodHRwczovL2Vhcm5pbmdjYXJkYW5vLmNvbSIsCiAgImV4dGVuZGVkIjogImh0dHA6Ly9tZXRhLmVhcm5pbmdjYXJkYW5vLmNvbS9lYXJuLmV4dGVuZGVkLW1ldGFkYXRhLmpzb24iCn0K",
+        "pmr_id": 305,
+        "hash_hex": "4ebe8f85840e13e8bc8738042c8264f1c557d53cbd253343b3bac7a3da8c7a2f"
+    },
+    {
+        "id": 14,
+        "pool_id": 292,
+        "ticker_name": "ANFRA",
+        "hash": "GWsmqykkKauFRw2g/YLzx0U72SH1ouKUr4uPGj+tnh4=",
+        "json": "{\"name\": \"ANFRA, The antifragile Pool\", \"ticker\": \"ANFRA\", \"homepage\": \"https://anfra.io\", \"description\": \"The antifragile staking pool\"}",
+        "bytes": "ewoibmFtZSI6ICJBTkZSQSwgVGhlIGFudGlmcmFnaWxlIFBvb2wiLAoiZGVzY3JpcHRpb24iOiAiVGhlIGFudGlmcmFnaWxlIHN0YWtpbmcgcG9vbCIsCiJ0aWNrZXIiOiAiQU5GUkEiLAoiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9hbmZyYS5pbyIKfQo=",
+        "pmr_id": 351,
+        "hash_hex": "196b26ab292429ab85470da0fd82f3c7453bd921f5a2e294af8b8f1a3fad9e1e"
+    },
+    {
+        "id": 15,
+        "pool_id": 126,
+        "ticker_name": "1PCT5",
+        "hash": "FhlNmjCswOdAdCm4zPzsBTi2Iz9CY9sksM33M4ejgFk=",
+        "json": "{\"name\": \"1 Percent Pool #5\", \"ticker\": \"1PCT5\", \"homepage\": \"https://www.1percentpool.eu\", \"description\": \"The 1 Percent Pool is dedicated to run stake pools with only 1% fee - ALWAYS!\"}",
+        "bytes": "ewogICJuYW1lIjogIjEgUGVyY2VudCBQb29sICM1IiwKICAiZGVzY3JpcHRpb24iOiAiVGhlIDEgUGVyY2VudCBQb29sIGlzIGRlZGljYXRlZCB0byBydW4gc3Rha2UgcG9vbHMgd2l0aCBvbmx5IDElIGZlZSAtIEFMV0FZUyEiLAogICJ0aWNrZXIiOiAiMVBDVDUiLAogICJob21lcGFnZSI6ICJodHRwczovL3d3dy4xcGVyY2VudHBvb2wuZXUiLAogICJleHRlbmRlZCI6ICJodHRwczovL3d3dy4xcGVyY2VudHBvb2wuZXUvMVBDVDUuZXh0ZW5kZWQtbWV0YWRhdGEuanNvbiIKfQo=",
+        "pmr_id": 140,
+        "hash_hex": "16194d9a30acc0e7407429b8ccfcec0538b6233f4263db24b0cdf73387a38059"
+    },
+    {
+        "id": 16,
+        "pool_id": 241,
+        "ticker_name": "FLOWR",
+        "hash": "r2o21clo30G9/3+N9D+c79TcisQoo/FhAkW9nVJ2BVQ=",
+        "json": "{\"name\": \"FLOWR Stake Pool\", \"ticker\": \"FLOWR\", \"homepage\": \"https://flowrpool.com\", \"description\": \"Bare Metal Servers - node and relays - 24/7/365 Uptime\"}",
+        "bytes": "ew0KICAibmFtZSI6ICJGTE9XUiBTdGFrZSBQb29sIiwNCiAgImRlc2NyaXB0aW9uIjogIkJhcmUgTWV0YWwgU2VydmVycyAtIG5vZGUgYW5kIHJlbGF5cyAtIDI0LzcvMzY1IFVwdGltZSIsDQogICJ0aWNrZXIiOiAiRkxPV1IiLA0KICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9mbG93cnBvb2wuY29tIg0KfQ==",
+        "pmr_id": 282,
+        "hash_hex": "af6a36d5c968df41bdff7f8df43f9cefd4dc8ac428a3f1610245bd9d52760554"
+    },
+    {
+        "id": 17,
+        "pool_id": 85,
+        "ticker_name": "EPIC",
+        "hash": "ZnFqzWw+7Xpx5923kDUBaD24QB7DFgq2Bdkm/5nckt0=",
+        "json": "{\"name\": \"Epic Stake Pool\", \"ticker\": \"EPIC\", \"homepage\": \"https://www.epicpool.eu/\", \"description\": \"Low Fees | Very Secure | Always Online! This is the Epic Stake Pool vision of how pools should be run! Join us now to become an Epic staker!\"}",
+        "bytes": "ewogICJuYW1lIjogIkVwaWMgU3Rha2UgUG9vbCIsCiAgImRlc2NyaXB0aW9uIjogIkxvdyBGZWVzIHwgVmVyeSBTZWN1cmUgfCBBbHdheXMgT25saW5lISBUaGlzIGlzIHRoZSBFcGljIFN0YWtlIFBvb2wgdmlzaW9uIG9mIGhvdyBwb29scyBzaG91bGQgYmUgcnVuISBKb2luIHVzIG5vdyB0byBiZWNvbWUgYW4gRXBpYyBzdGFrZXIhIiwKICAidGlja2VyIjogIkVQSUMiLAogICJob21lcGFnZSI6ICJodHRwczovL3d3dy5lcGljcG9vbC5ldS8iLAogICJleHRlbmRlZCI6ICJodHRwczovL3d3dy5lcGljcG9vbC5ldS9FUElDLmV4dGVuZGVkLW1ldGFkYXRhLmpzb24iCn0K",
+        "pmr_id": 93,
+        "hash_hex": "66716acd6c3eed7a71e7ddb7903501683db8401ec3160ab605d926ff99dc92dd"
+    },
+    {
+        "id": 18,
+        "pool_id": 261,
+        "ticker_name": "FROG",
+        "hash": "Axg0MNYOMFW40OSaYD1yGx+Zs+dUtocvpcKqzPAPrN4=",
+        "json": "{\"name\": \"ADAfrog \ud83d\udc38\", \"ticker\": \"FROG\", \"homepage\": \"https://adafrog.io\", \"description\": \"ADAfrog is an Adosia pool - FROG supports Adosia development efforts to tokenize on Cardano\"}",
+        "bytes": "ewoibmFtZSI6ICJBREFmcm9nIPCfkLgiLAoiZGVzY3JpcHRpb24iOiAiQURBZnJvZyBpcyBhbiBBZG9zaWEgcG9vbCAtIEZST0cgc3VwcG9ydHMgQWRvc2lhIGRldmVsb3BtZW50IGVmZm9ydHMgdG8gdG9rZW5pemUgb24gQ2FyZGFubyIsCiJ0aWNrZXIiOiAiRlJPRyIsCiJob21lcGFnZSI6ICJodHRwczovL2FkYWZyb2cuaW8iLAoiZXh0ZW5kZWQiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Fkb3NpYXdvbGYvbS9tYXN0ZXIvZnguanNvbiIKfQ==",
+        "pmr_id": 310,
+        "hash_hex": "03183430d60e3055b8d0e49a603d721b1f99b3e754b6872fa5c2aaccf00facde"
+    },
+    {
+        "id": 19,
+        "pool_id": 82,
+        "ticker_name": "JAPAN",
+        "hash": "NxwaE6Lu4wN+/M4wgl6VsaNSS8XqFlYnommfCyy99BM=",
+        "json": "{\"name\": \"JAPAN\", \"ticker\": \"JAPAN\", \"homepage\": \"https://tokyostaker.com\", \"description\": \"\u6771\u4eac\u767a\u30fb\u5b89\u5fc3\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u3067\u3001\u3042\u306a\u305f\u306e\u5fc3\u306b\u5b89\u3089\u304e\u3092\u3002\u8907\u6570\u306e\u30b9\u30c6\u30fc\u30af\u30d7\u30fc\u30eb\u3068\u6226\u7565\u7684\u63d0\u643a\u3001\u707d\u5bb3\u6642\u306b\u3082\u5b89\u5fc3\u306a\u30af\u30e9\u30a6\u30c9\u30b5\u30fc\u30d0\u30fc\u3001\u5b89\u5fc3\u5b89\u5168\u5e73\u7a4f\u306a\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u30e9\u30a4\u30d5\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Secure staking, peace in your heart.Strategic alliances with multiple pools/Secure cloud server/We will deliver safe-secure-peaceful staking life.\"}",
+        "bytes": "ewogICJuYW1lIjogIkpBUEFOIiwKICAidGlja2VyIjogIkpBUEFOIiwKICAiZGVzY3JpcHRpb24iOiAi5p2x5Lqs55m644O75a6J5b+D44K544OG44O844Kt44Oz44Kw44Gn44CB44GC44Gq44Gf44Gu5b+D44Gr5a6J44KJ44GO44KS44CC6KSH5pWw44Gu44K544OG44O844Kv44OX44O844Or44Go5oim55Wl55qE5o+Q5pC644CB54G95a6z5pmC44Gr44KC5a6J5b+D44Gq44Kv44Op44Km44OJ44K144O844OQ44O844CB5a6J5b+D5a6J5YWo5bmz56mP44Gq44K544OG44O844Kt44Oz44Kw44Op44Kk44OV44KS44GK5bGK44GR44GX44G+44GZ44CCU2VjdXJlIHN0YWtpbmcsIHBlYWNlIGluIHlvdXIgaGVhcnQuU3RyYXRlZ2ljIGFsbGlhbmNlcyB3aXRoIG11bHRpcGxlIHBvb2xzL1NlY3VyZSBjbG91ZCBzZXJ2ZXIvV2Ugd2lsbCBkZWxpdmVyIHNhZmUtc2VjdXJlLXBlYWNlZnVsIHN0YWtpbmcgbGlmZS4iLAogICJob21lcGFnZSI6ICJodHRwczovL3Rva3lvc3Rha2VyLmNvbSIKfQo=",
+        "pmr_id": 89,
+        "hash_hex": "371c1a13a2eee3037efcce30825e95b1a3524bc5ea165627a2699f0b2cbdf413"
+    },
+    {
+        "id": 20,
+        "pool_id": 194,
+        "ticker_name": "CENT1",
+        "hash": "0Ty3CJju7/ggZnXhZLP6uS5bCmwvjfwO2lvrs9VDYqQ=",
+        "json": "{\"name\": \"Stake Pool Central\", \"ticker\": \"CENT1\", \"homepage\": \"https://cent.stakepoolcentral.com\", \"description\": \"Stable operations delivered by Stake Pool Central\"}",
+        "bytes": "ewogICJuYW1lIjogIlN0YWtlIFBvb2wgQ2VudHJhbCIsCiAgImRlc2NyaXB0aW9uIjogIlN0YWJsZSBvcGVyYXRpb25zIGRlbGl2ZXJlZCBieSBTdGFrZSBQb29sIENlbnRyYWwiLAogICJ0aWNrZXIiOiAiQ0VOVDEiLAogICJob21lcGFnZSI6ICJodHRwczovL2NlbnQuc3Rha2Vwb29sY2VudHJhbC5jb20iCn0K",
+        "pmr_id": 225,
+        "hash_hex": "d13cb70898eeeff8206675e164b3fab92e5b0a6c2f8dfc0eda5bebb3d54362a4"
+    }
+]

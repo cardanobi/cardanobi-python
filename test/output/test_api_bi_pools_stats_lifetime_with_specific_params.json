@@ -1,0 +1,9 @@
+{
+    "pool_hash": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+    "tx_count_lifetime": 12176,
+    "block_count_lifetime": 783,
+    "delegator_count_lifetime": 6703,
+    "delegated_stakes_lifetime": 860035108840613,
+    "delegator_count_lifetime_avg": 35.09424083769633,
+    "delegated_stakes_lifetime_avg": 4502801616966.561
+}

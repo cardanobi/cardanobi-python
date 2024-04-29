@@ -1,0 +1,166 @@
+{
+    "@odata.context": "https://cardanobi.io/api/core/odata/$metadata#PoolsOfflineFetchErrors",
+    "value": [
+        {
+            "id": 1,
+            "pool_id": 78,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 82,
+            "fetch_error": "HTTP Response from https://polypool.io/mama.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 2,
+            "pool_id": 48,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 50,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://raw.githubusercontent.com/jlt03/24/master/poolmeta.json. Expected 2833fff1d1e06c3943a20815a5bf08f0952c9f47f96d93e603f800f064cb5528 but got a90e2f44f93dccfd4561606237933d45ed73898f069d4933fd1d1b3e58034917.",
+            "retry_count": 0
+        },
+        {
+            "id": 3,
+            "pool_id": 175,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 202,
+            "fetch_error": "Connection failure when fetching metadata from https://akibapool.com/data/akiba.metadata.json'.",
+            "retry_count": 0
+        },
+        {
+            "id": 4,
+            "pool_id": 39,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 40,
+            "fetch_error": "HTTP Response from https://tinyurl.com/brada-pool resulted in HTTP status code : 403 Forbidden",
+            "retry_count": 0
+        },
+        {
+            "id": 5,
+            "pool_id": 212,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 248,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://digitalfortress.online/digi2.json. Expected b118e0f5a5f56598e0f79118aa94ad359a7a34ee09c91034074a05687368a716 but got d782cc99428d39361e63a46906c58e2877af7a578e1ac226f26f78ce93024700.",
+            "retry_count": 0
+        },
+        {
+            "id": 6,
+            "pool_id": 150,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 166,
+            "fetch_error": "HTTP Response from https://raw.githubusercontent.com/Chris-Graffagnino/m/m/t.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 7,
+            "pool_id": 189,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 218,
+            "fetch_error": "HTTP Exception for https://shelley.test.adawallet.io/public_files/MDS_ST_meta.json resulted in : InternalException (HandshakeFailed (Error_Protocol (\"expecting server hello, got alert : [(AlertLeve",
+            "retry_count": 0
+        },
+        {
+            "id": 8,
+            "pool_id": 49,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 51,
+            "fetch_error": "HTTP Response from https://muggy-pool.github.io/muggy/muggyMetaData.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 9,
+            "pool_id": 36,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 37,
+            "fetch_error": "HTTP Response from https://staker.space/space.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 10,
+            "pool_id": 262,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 312,
+            "fetch_error": "HTTP Response from https://planetstake.s3.eu-west-2.amazonaws.com/STAKE-JP-001.json resulted in HTTP status code : 403 Forbidden",
+            "retry_count": 0
+        },
+        {
+            "id": 11,
+            "pool_id": 125,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 169,
+            "fetch_error": "HTTP Response from https://lunarpool.io/moon2.metadata.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 12,
+            "pool_id": 162,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 183,
+            "fetch_error": "Timeout when fetching metadata from http://104.198.40.237/poolmeta.json: Connection",
+            "retry_count": 0
+        },
+        {
+            "id": 13,
+            "pool_id": 214,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 250,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://bit.ly/2X7iTFA. Expected 3c3e83fb3312040e9eef7b2987e8729cb04145f0846f249a13a55f5f58c0cc9c but got b3809a8aa0dd51992188ebbff422c3637f0f149c9a8317ab72d08116847b5913.",
+            "retry_count": 0
+        },
+        {
+            "id": 14,
+            "pool_id": 205,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 240,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://www.stakecool.io/pools/cool.metadata.json. Expected f082d2b37c8780c76d7ced94196afa4e704a235b3d1605c2be9aba4f143b383e but got e50a1ba1cb5ebd62f6ab83d98346e0c04fcc45aac8edea2069f2a10fbfe11832.",
+            "retry_count": 0
+        },
+        {
+            "id": 15,
+            "pool_id": 68,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 72,
+            "fetch_error": "HTTP Response from https://lunarpool.io/moon9.metadata.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 16,
+            "pool_id": 181,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 210,
+            "fetch_error": "Connection failure when fetching metadata from https://gigapos.online/z01/giga.metadata.json'.",
+            "retry_count": 0
+        },
+        {
+            "id": 17,
+            "pool_id": 170,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 195,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://adafarm.io/poolmeta.json. Expected 3d89e3edb91d00a8fb1d06702f53b2eaa367330446ac3c4b6fdc341e7c8bb78d but got 8f46669a21167f8a21549a63ae36deaf6ff3f93e10bef89f3698a661f7b29fc1.",
+            "retry_count": 0
+        },
+        {
+            "id": 18,
+            "pool_id": 117,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 165,
+            "fetch_error": "Hash mismatch from when fetching metadata from https://lunarpool.io/moon1.metadata.json. Expected e531873d13daff16f9848c09fdd1f514351417cc62a2b6fe1671df811544f210 but got 727e244899cb1ef5ee0922bdfebabb999946032a18cfe976bf52cd5327ad948e.",
+            "retry_count": 0
+        },
+        {
+            "id": 19,
+            "pool_id": 121,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 133,
+            "fetch_error": "HTTP Response from https://raw.githubusercontent.com/marin1602/apool/m/meta.json resulted in HTTP status code : 404 Not Found",
+            "retry_count": 0
+        },
+        {
+            "id": 20,
+            "pool_id": 270,
+            "fetch_time": "2023-02-05T00:10:14.241245Z",
+            "pmr_id": 324,
+            "fetch_error": "HTTP Response from https://tinyurl.com/bloom-small resulted in HTTP status code : 403 Forbidden",
+            "retry_count": 0
+        }
+    ],
+    "@odata.nextLink": "https://cardanobi.io/api/core/odata/poolsofflinefetcherrors?$skip=20"
+}
