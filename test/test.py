@@ -35,7 +35,9 @@ async def single():
 
     # resp = await CBI.core.transactions_(transaction_hash="5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0")
     # resp = await CBI.core.transactions.utxos_(transaction_hash="5f6f72b00ae982492823fb541153e6c2afc9cb7231687f2a5d82a994f61764a0")
-    resp = await CBI.core.transactions.utxos_(transaction_hash="e437901e028365c244b8e6d7afe2bada293a118bf6b3f5b3c3b24629593651be")
+    # resp = await CBI.core.transactions.utxos_(transaction_hash="e437901e028365c244b8e6d7afe2bada293a118bf6b3f5b3c3b24629593651be")
+    
+    resp = await CBI.bi.addresses.stats_(address="stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",page_size=2)
     
 
     print(json.dumps(resp, indent=4))
