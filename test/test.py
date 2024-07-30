@@ -40,7 +40,8 @@ async def single():
     resp = await CBI.bi.addresses.stats_(address="stake1u8a9qstrmj4rvc3k5z8fems7f0j2vztz8det2klgakhfc8ce79fma",page_size=2)
     
 
-    print(json.dumps(resp, indent=4))
+    # print(json.dumps(resp, indent=4))
+    print(resp)
     
     await CBI.client.session.close()
 
